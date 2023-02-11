@@ -42,7 +42,6 @@ Dataset spliting, Local updating and Download dropout in [Update.py](models/Upda
 
 
 ## Results
-### MNIST
 We develop the experiments in an image classification FL
 task under CIFAR-10 dataset. We build up a FL system with 100 clients in total. The participation rate is set as 0.1, local epoch is set as 5 and communication
 round as 200.
