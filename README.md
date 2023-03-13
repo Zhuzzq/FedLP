@@ -1,6 +1,6 @@
 # FedLP:  Layer-wise Pruning Mechanism for Communication-Computation Efficient Federated Learning
 
-This is the implemention of FedLP, a Federated learning (FL) framework with Layer-wise Pruning. (Accepted by ICC 2023)
+This is the implementation of FedLP, a Federated learning (FL) framework with Layer-wise Pruning. (Accepted by ICC 2023)
 
 ## Requirements
 
@@ -58,7 +58,6 @@ round as 200.
 | FedLP-Hetero(3) | 68.82 / 68.29 / 39.54 | 225.28 | 24.62 |
 | FedLP-Hetero(u) | 72.42 / 64.65 / 57.51 | 318.66 | 23.83 |
 | FedLP-Hetero(5) | 76.28 / 76.34 / 65.69 | 710.80 | 30.10 |
-
 
 
 
